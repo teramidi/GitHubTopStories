@@ -1,0 +1,6 @@
+@GitHubBestStories_HostAddress = http://localhost:5007
+
+GET {{GitHubBestStories_HostAddress}}/beststories/
+Accept: application/json
+
+###
